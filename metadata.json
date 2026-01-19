@@ -1,0 +1,5 @@
+{
+  "name": "AMM Career Search Sheet",
+  "description": "A comprehensive career development tool (AMM Search Sheet) that allows users to input their career details across 11 structured steps, with local storage persistence and export capabilities.",
+  "requestFramePermissions": []
+}
